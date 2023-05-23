@@ -392,7 +392,7 @@
         },
         "foam.files.attachmentExtensions": {
           "type": "string",
-          "default": "pdf mp3 webm wav m4a mp4 avi mov rtf txt doc docx pages xls xlsx numbers ppt pptm pptx",
+          "default": "7z aif aiff avi bz2 csv doc docx epub flac fodp fods fodt gz htm html key m4a m4v mka mkv mobi mov mp3 mp4 numbers odp ods odt oga ogg ogv opus pages pdf ppt pptm pptx rar rtf tar txt wav webm wma xls xlsx zip",
           "description": "Space separated list of file extensions that will be considered attachments"
         },
         "foam.files.newNotePath": {
